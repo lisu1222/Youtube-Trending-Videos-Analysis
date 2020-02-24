@@ -1,6 +1,6 @@
 # Youtube Trending Videos Analysis
 ## Data Source
-Youtube has used a combination of factors including measuring users interactions(number of views, shares, comments and likes) to determine its top-treinding vides. This is a daily record of the top trending YouTube videos in 2017-2018.
+YouTube has used a combination of factors including measuring users interactions(number of views, shares, comments and likes) to determine its top-treinding vides. This is a daily record of the top trending YouTube videos in 2017-2018.
 This project is based on a Kaggle dataset: [Trending Youtube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new). For research interest, only U.S. region dataset was used for this project, including 6,351 rows and 17 columns after cleaning.
 
 ## Objectives
@@ -12,4 +12,13 @@ Questions that helped drive this project:
 - What insihts can we draw from the trending viedos' titles?
 
 ## Data Processing
+- Replace NaN values
+- Convert data types
+- Seperate and uniform columns
+- Map Category Name to Category ID
+- Drop duplicated videos that trended for multiple times
+
+## Data Visulization
+###Inspect Numeric Variables
+![alt text](https://github.com/lisu1222/Youtube-Trending-Videos-Analysis/blob/master/insp_num_var.png)
 
