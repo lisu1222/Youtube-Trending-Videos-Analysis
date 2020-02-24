@@ -19,6 +19,15 @@ Questions that helped drive this project:
 - Drop duplicated videos that trended for multiple times
 
 ## Data Visulization
-###Inspect Numeric Variables
+### Inspect Numeric Variables
 ![alt text](https://github.com/lisu1222/Youtube-Trending-Videos-Analysis/blob/master/insp_num_var.png)
+We note from the table above that
+
+The average number of views of a trending video is 1,962,117. The median value for the number of views is 518,107, which means that half the trending videos have views that are less than that number, and the other half have views larger than that number
+The average number of likes of a trending video is 55,575, while the average number of dislikes is 3,067. The
+Average comment count is 6,451 while the median is 1,266.
+
+#### Views Distribution
+
+
 
