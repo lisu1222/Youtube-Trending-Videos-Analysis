@@ -74,7 +74,7 @@ During weekend less videos are uploaded compared to weekdays. And 4pm is the mos
 44% of titles contain at least one fully-capitallized word.
 And the title length is normally distributed with most trending videos having title lengths between 30-60 characters approximately.
 
-![alt text](https://github.com/lisu1222/Youtube-Trending-Videos-Analysis/blob/master/title_word_cloud.png)
+![alt text](https://github.com/lisu1222/Youtube-Trending-Videos-Analysis/blob/master/images/title_word_cloud.png)
 
 We notice also that words "Video", "Trailer", "Official", and "New" are very common in trending video titles.
 
